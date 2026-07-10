@@ -37,31 +37,28 @@ whoami:
 
 **EDA:** Vivado • Xcelium • ModelSim • KiCad • MATLAB
 
-🔬 Current Focus
-
+### 🔬 Current Focus
+```
 RISC-V Microarchitecture   ▰▰▰▰▰▰▰▱▱
 RTL Design                 ▰▰▰▰▰▰▰▰▱
 Functional Verification    ▰▰▰▰▰▰▰▱▱
 FPGA Prototyping           ▰▰▰▰▰▰▱▱▱
 Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
+```
 
-📂 Featured Projects
+### 📂 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [8_bit_ALU](https://github.com/shrimahe/8_bit_ALU) | 8-bit ALU design | Verilog |
+| [Reservation-Station](https://github.com/shrimahe/Reservation-Station) | Microarchitecture component design & verification | Verilog |
+| [xAI_DIM-SNS](https://github.com/shrimahe/xAI_DIM-SNS) | RL-based adaptive routing for resilient comm. networks | Python |
+| [Crop_Growth_Monitor](https://github.com/shrimahe/Crop_Growth_Monitor) | Crop growth monitoring system | Python |
+| [PlantDoc](https://github.com/shrimahe/PlantDoc) | Plant disease detection tool | HTML |
+| [Audio_Echo_Generator](https://github.com/shrimahe/Audio_Echo_Generator) | Audio echo generation utility | C |
 
-ProjectDescriptionStack8_bit_ALU8-bit ALU designVerilogReservation-StationMicroarchitecture component design & verificationVerilogxAI_DIM-SNSRL-based adaptive routing for resilient comm. networksPythonCrop_Growth_MonitorCrop growth monitoring systemPythonPlantDocPlant disease detection toolHTMLAudio_Echo_GeneratorAudio echo generation utilityC
+### 💡 Interests
+`Digital Design` `Computer Architecture` `RISC-V` `FPGA` `ASIC Design` `RTL Verification` `Embedded Systems` `PCB Design` `HW-SW Co-design` `Machine Learning`
 
-💡 Interests
-
-Digital Design Computer Architecture RISC-V FPGA ASIC Design RTL Verification Embedded Systems PCB Design HW-SW Co-design Machine Learning
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true" height="165"/>
-</div>
 
 ## 📊 GitHub Statistics
 
