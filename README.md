@@ -30,7 +30,7 @@ whoami:
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex,vivado,matlab"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex,stm,matlab"/>
 </p>
 
 ### 🔬 Current Focus
