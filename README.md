@@ -37,25 +37,31 @@ whoami:
 
 **EDA:** Vivado • Xcelium • ModelSim • KiCad • MATLAB
 
-## 🔬 Current Focus
+🔬 Current Focus
 
-```text
-RISC-V Architecture      █████████░
-RTL Design               ██████████
-Verification             ████████░░
-FPGA                     ███████░░░
-Computer Architecture    ████████░░
-Machine Learning         ██████░░░░
-```
+RISC-V Microarchitecture   ▰▰▰▰▰▰▰▱▱
+RTL Design                 ▰▰▰▰▰▰▰▰▱
+Functional Verification    ▰▰▰▰▰▰▰▱▱
+FPGA Prototyping           ▰▰▰▰▰▰▱▱▱
+Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-- **8_bit_ALU** — Verilog ALU implementation
-- **Reservation-Station** — RTL microarchitecture component
-- **xAI_DIM-SNS** — Reinforcement-learning routing
-- **Crop_Growth_Monitor** — Embedded monitoring
-- **PlantDoc** — Plant disease detection
-- **Audio_Echo_Generator** — DSP utility in C
+ProjectDescriptionStack8_bit_ALU8-bit ALU designVerilogReservation-StationMicroarchitecture component design & verificationVerilogxAI_DIM-SNSRL-based adaptive routing for resilient comm. networksPythonCrop_Growth_MonitorCrop growth monitoring systemPythonPlantDocPlant disease detection toolHTMLAudio_Echo_GeneratorAudio echo generation utilityC
+
+💡 Interests
+
+Digital Design Computer Architecture RISC-V FPGA ASIC Design RTL Verification Embedded Systems PCB Design HW-SW Co-design Machine Learning
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true" height="165"/>
+</div>
 
 ## 📊 GitHub Statistics
 
