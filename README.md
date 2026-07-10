@@ -30,12 +30,8 @@ whoami:
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex,riscv,matlab"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex,vivado,matlab"/>
 </p>
-
-**Hardware:** Verilog • SystemVerilog • RISC-V • FPGA • RTL Design • UVM
-
-**EDA:** Vivado • Xcelium • ModelSim • KiCad • MATLAB
 
 ### 🔬 Current Focus
 ```
