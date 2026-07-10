@@ -1,6 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20reliable%20hardware%20systems%20from%20RTL%20to%20intelligent%20embedded%20platforms&descAlignY=58&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=LEARN;GROW;REPEAT" />
+
+---
+
 ## 🚀 About Me
 
 - 🎓 B.E. Electronics & Communication Engineering @ RV College of Engineering
@@ -96,6 +101,7 @@
 > To activate this animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo (`shrimahe/shrimahe`) — it auto-generates the snake SVG from your contribution graph on a schedule.
 
 ---
+
 
 ## 💡 Engineering Interests
 
