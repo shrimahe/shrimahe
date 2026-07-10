@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Build.;Verify.;Optimize.;Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Learn.;Build.;Verify.;Optimize.;Repeat."/>
 
 <a href="https://github.com/shrimahe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shridattha-m-hebbar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -77,10 +77,6 @@ Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 </details>
