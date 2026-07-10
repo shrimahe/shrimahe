@@ -1,95 +1,96 @@
+# Hi, I'm Shridattha M. Hebbar 👋
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=150&section=header&text=Shridattha%20M.%20Hebbar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20reliable%20hardware%20systems%20from%20RTL%20to%20intelligent%20embedded%20platforms&descAlignY=62&descSize=14" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=RTL%20•%20RISC-V%20•%20FPGA%20•%20Verification&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1BFFFF&center=true&vCenter=true&width=500&lines=LEARN;GROW;REPEAT" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Build.;Verify.;Optimize.;Repeat."/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shrimahe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridattha-m-hebbar/)
-![Profile Views](https://komarev.com/ghpvc/?username=shrimahe&style=flat-square&color=blue)
+<a href="https://github.com/shrimahe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shridattha-m-hebbar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=shrimahe&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ```yaml
 whoami:
-  role: "ECE Undergrad @ RV College of Engineering"
-  focus: [RISC-V, RTL Design, Verification, FPGA Development]
-  exploring: "ML for communication networks & hardware systems"
-  status: "compiling knowledge, one commit at a time"
+  education: B.E. Electronics & Communication Engineering @ RVCE
+  interests:
+    - RISC-V
+    - RTL Design
+    - Verification
+    - FPGA
+    - Embedded Systems
+  currently_learning:
+    - Computer Architecture
+    - ASIC Design Flow
+    - Machine Learning
 ```
 
-### 🛠️ Tech Stack
-![](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square)
-![](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square)
-![](https://img.shields.io/badge/RISC--V-red?style=flat-square)
-![](https://img.shields.io/badge/FPGA-green?style=flat-square)
-![](https://img.shields.io/badge/RTL_Design-orange?style=flat-square)
-![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🛠️ Tech Stack
 
-![](https://skillicons.dev/icons?i=git,github,vscode,linux,latex) &nbsp; *Vivado · Xcelium · ModelSim · KiCad · MATLAB*
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex"/>
+</p>
 
-### 🔬 Current Focus
+**Hardware:** Verilog • SystemVerilog • RISC-V • FPGA • RTL Design • UVM
+
+**EDA:** Vivado • Xcelium • ModelSim • KiCad • MATLAB
+
+## 🔬 Current Focus
+
+```text
+RISC-V Architecture      █████████░
+RTL Design               ██████████
+Verification             ████████░░
+FPGA                     ███████░░░
+Computer Architecture    ████████░░
+Machine Learning         ██████░░░░
 ```
-RISC-V Microarchitecture   ▰▰▰▰▰▰▰▱▱
-RTL Design                 ▰▰▰▰▰▰▰▰▱
-Functional Verification    ▰▰▰▰▰▰▰▱▱
-FPGA Prototyping           ▰▰▰▰▰▰▱▱▱
-Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
-```
 
-### 📂 Featured Projects
-| Project | Description | Stack |
-|---|---|---|
-| [8_bit_ALU](https://github.com/shrimahe/8_bit_ALU) | 8-bit ALU design | Verilog |
-| [Reservation-Station](https://github.com/shrimahe/Reservation-Station) | Microarchitecture component design & verification | Verilog |
-| [xAI_DIM-SNS](https://github.com/shrimahe/xAI_DIM-SNS) | RL-based adaptive routing for resilient comm. networks | Python |
-| [Crop_Growth_Monitor](https://github.com/shrimahe/Crop_Growth_Monitor) | Crop growth monitoring system | Python |
-| [PlantDoc](https://github.com/shrimahe/PlantDoc) | Plant disease detection tool | HTML |
-| [Audio_Echo_Generator](https://github.com/shrimahe/Audio_Echo_Generator) | Audio echo generation utility | C |
+## 📂 Featured Projects
 
-### 💡 Interests
-`Digital Design` `Computer Architecture` `RISC-V` `FPGA` `ASIC Design` `RTL Verification` `Embedded Systems` `PCB Design` `HW-SW Co-design` `Machine Learning`
+- **8_bit_ALU** — Verilog ALU implementation
+- **Reservation-Station** — RTL microarchitecture component
+- **xAI_DIM-SNS** — Reinforcement-learning routing
+- **Crop_Growth_Monitor** — Embedded monitoring
+- **PlantDoc** — Plant disease detection
+- **Audio_Echo_Generator** — DSP utility in C
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true" height="165"/>
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-### 🐍 Contribution Snake
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake-dark.svg" width="95%">
+</p>
 
 <details>
-<summary><b>📈 Contribution graph & trophies</b></summary>
-<br>
+<summary><b>📈 More Analytics</b></summary>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true"/>
+</p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6)
-
-</div>
 </details>
 
 <div align="center">
 
-*"Good hardware is not only functional — it is verifiable, scalable, and simple."*
+> *Design. Simulate. Verify. Optimize. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=80&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=100&section=footer"/>
 
 </div>
