@@ -47,7 +47,7 @@ Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 |---|---|---|
 | [8_bit_ALU](https://github.com/shrimahe/8_bit_ALU) | 8-bit ALU design | Verilog |
 | [Reservation-Station](https://github.com/shrimahe/Reservation-Station) | Microarchitecture component design & verification | Verilog |
-| [xAI_DIM-SNS](https://github.com/shrimahe/xAI_DIM-SNS) | RL-based adaptive routing for resilient comm. networks | Python |
+| [xAI_DIM-SNS](https://github.com/shrimahe/xAI_DIM-SNS) | XAI-Driven Decentralized Infrastructure Monitoring and Safety Navigation System | Python |
 | [Crop_Growth_Monitor](https://github.com/shrimahe/Crop_Growth_Monitor) | Crop growth monitoring system | Python |
 | [PlantDoc](https://github.com/shrimahe/PlantDoc) | Plant disease detection tool | HTML |
 | [Audio_Echo_Generator](https://github.com/shrimahe/Audio_Echo_Generator) | Audio echo generation utility | C |
