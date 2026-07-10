@@ -1,12 +1,65 @@
-<div align="center">
-
 # Hi there, I'm Shridattha M. Hebbar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;Digital+Design+%7C+RISC-V+Developer;FPGA+%7C+RTL+Verification;Embedded+Systems+Enthusiast;Machine+Learning+for+Engineering" alt="Typing SVG" />
+<div align="center">
 
-<p>
-Building reliable hardware systems from RTL to intelligent embedded platforms.
-</p>
+```
+.....................................    .......                   ...          
+..   .     .                 .......        .....                               
+.    ........                                ....                    ...        
+.     ......................                 .....  ...    .....................
+.............................                 ..................................
+...........................                    .................................
+........................  ....:::..              ...............................
+...................... .-+*#%%@@@@%%#*+-:         ..............................
+......................=#%@@@@@@%%%%%@@@@@%*+-::-*. .............................
+.....................*%%%%%@%%%%%%%##%%%%@@@@%%%%#..............................
+.....................::+%%@%%##############**+=*%@*.............................
+...................... +@%%*#####*#*###%%%%%#*==%@%:.................:::::::::::
+........................*@*#%%%%%%###%%@%%%%%%+:+%#+.......:::::::::::::::::::::
+....................... .%#*#%%%%%#*+*####%#+-::-%*+:.::::::::::::::::::::::::::
+.......::::...:::........+#++*****++=-=++=-. .::-++:.:::::::::::::::::::::::::::
+::::::::::::::::::::::...:*+===++++=-:--++=----:-=:::::::::::-:-:-----:::::::--:
+:::::::::::::::::::::::::.-+++++**+***#*+****+=--#+:-::-------------------------
+---------------------::::::-++**##%%%%%%#%%*++==+#-:--------------------------==
+----------------------------=*+*%%%#***+*##*+**#++%: .-==============---========
+---=========------===--------*#*****####+==+##%#-:%-   :--==++++==============++
+=====================---------=*#*+++**+-=+#%%#-::+. .    ....:--==++++=========
+===============----------------:+%###%%%%%%%##+=-=-...  ....:     ..:-==+=======
+=-----------------------------::+%#*##%%%####*+++=:.....::..--. ..     .:=+=====
+==------------:::::::::::--::::-+%#+++*###*******-...:..::..::::......    -+++++
+-----==-------:.....::....:---:-=##***********##-:......:..:::-::::::...   .=+++
+==-----------::::::--:..:--=-::-=+%%#*******##+-.:.....::..--=-:---::::...   =++
+==------------------:.:--===-:::-=#%**+*****=::--::.::-::.:-+=-====-:-:::.    =+
+=========----------:::-=====:::------==++=::.=%***+++=:...:==-=====--:::::.... =
+++++=========------:--=+====::+##*=====-+++*#*++====:.-=---===+===-=---:::......
+====-======--=----::--++===-:-----=+++++++**+==----:-+++=====++====+==----...:. 
+------------------::--=++=-:::::-------=--==--:::::=*+=----==+*+==+++====-::.::.
+-----------------::-===++=:.:::::-----=-----:::..-+*=========+**==++==++=:--:::.
+================-::-=+===-:::::::----==----:::--+*+=========++***+++=++=--=-::..
+-------=--======-::--=++=-:---:-----==-----:-=+**+=========+++**#++=++====-::::.
+--==--===---==---:--===*+---=-:=-:---------=++++==========++++**##==+==+=-:-::::
+===+==++===------:---==+**===:--:----:---:=++++==========+++++***#+===+=:..:---:
+===========------:---===+*#+:::::--:::--:-+++++==========++++*****+====---:---::
+===========-====-.----====**-::--:::-=-:-+++++===========+++**+++**======--:....
+=======-====-===:.-----=+++**::::---=:.-=++==============++++++++**+--=====++*##
+=+**++=========-.::---==++**#=:::----.-=================++++++++++**===+++******
++++++++++======------===++**+-::----.-=================++++++++++++*+======+++**
+*++****++++=====---===++***=-=-::--.:=======---=======++==++++++++++*+====++++++
+*****+++++=======--===+**#+:-++-:-::-=====-----=======++==+++++=++++*++===+++++=
+=+******++++++*+=====++***==+++-:::--====---:--========--=++++==++++*+++=++===++
+++****++++++==+=====++***=-=====-:---------::----==-----=+=======++++++++++=====
+++++===--------===+++**#+:-===++=---------:::-----==================+++++++=====
+===---==------===++***#*-:----------------::::-----=============+++++=-+*+=-----
+===-====-------=+****##+----===----------:----::----=============++++=--*==-----
+---------==----==+*****======+++=--------:::----::---================---=-:::---
+--===---===-----=+++***==+==--==------===--------:::--==============----::..::-=
+--=+=-::-:------==+++*++=-=++++=:::---===========--:::--====+=======--::::::---=
+-====----------===+++*=+++++*++=---::--=============-:::--==++++===-:::..::--===
+=--===++=-------==++*+=++++==----=================+++==--::--==++-::...::--==++*
+*+===++*=---::--==+**==+++++++=-::---===++++++======+++++===-----::..::--==++**+
+```
+
+**Building reliable hardware systems from RTL to intelligent embedded platforms.**
 
 </div>
 
@@ -24,40 +77,25 @@ Building reliable hardware systems from RTL to intelligent embedded platforms.
 
 ## 🛠️ Tech Stack
 
-### Hardware
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL_Design-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-lightgrey?style=for-the-badge"/>
-</p>
+### Hardware & Languages
+![](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
+![](https://img.shields.io/badge/RISC--V-red?style=for-the-badge)
+![](https://img.shields.io/badge/FPGA-green?style=for-the-badge)
+![](https://img.shields.io/badge/RTL_Design-orange?style=for-the-badge)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
+![](https://skillicons.dev/icons?i=git,github,vscode,linux,latex)
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex" />
-
-</p>
-
-- Vivado
-- Xcelium
-- ModelSim
-- KiCad
-- MATLAB
+- Vivado · Xcelium · ModelSim · KiCad · MATLAB
 
 ---
 
 ## 🔬 Current Focus
 
-```text
+```
 ▰▰▰▰▰▰▰▱▱  RISC-V Microarchitecture
 ▰▰▰▰▰▰▰▰▱  RTL Design
 ▰▰▰▰▰▰▰▱▱  Functional Verification
@@ -69,84 +107,61 @@ Building reliable hardware systems from RTL to intelligent embedded platforms.
 
 ## 📂 Featured Projects
 
-### 🖥️ RISC-V Hardware Design
-
-Design and verification of RISC-V components including instruction decoding, compressed instruction handling, and microarchitecture exploration.
-
----
-
-### 🔧 FPGA & Embedded Systems
-
-Embedded hardware platforms integrating sensors, microcontrollers, and custom digital logic.
-
----
-
-### 🌐 Intelligent Disaster Recovery Networks
-
-Reinforcement Learning based adaptive routing framework for resilient communication networks.
-
----
-
-### ⚙️ RTL Verification
-
-Functional verification, coverage analysis, simulation automation, and debugging using industry-standard tools.
+| Project | Description | Stack |
+|---|---|---|
+| 🖥️ [8_bit_ALU](https://github.com/shrimahe/8_bit_ALU) | Design of an 8-bit ALU | Verilog |
+| 🔧 [Reservation-Station](https://github.com/shrimahe/Reservation-Station) | Microarchitecture component design & verification | Verilog |
+| 🌐 [xAI_DIM-SNS](https://github.com/shrimahe/xAI_DIM-SNS) | RL-based adaptive routing for resilient communication networks | Python |
+| 🌱 [Crop_Growth_Monitor](https://github.com/shrimahe/Crop_Growth_Monitor) | Crop growth monitoring system | Python |
+| 🩺 [PlantDoc](https://github.com/shrimahe/PlantDoc) | Plant disease detection tool | HTML |
+| 🔊 [Audio_Echo_Generator](https://github.com/shrimahe/Audio_Echo_Generator) | Audio echo generation utility | C |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimahe&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true"/>
+![](https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true)
 
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true)
 
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6"/>
+![](https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6)
 
-</p>
+</div>
 
 ---
 
 ## 💡 Engineering Interests
 
-- Digital Design
-- Computer Architecture
-- RISC-V
-- FPGA
-- ASIC Design
-- RTL Verification
-- Embedded Systems
-- PCB Design
-- Hardware-Software Co-design
-- Machine Learning
+`Digital Design` `Computer Architecture` `RISC-V` `FPGA` `ASIC Design` `RTL Verification` `Embedded Systems` `PCB Design` `Hardware-Software Co-design` `Machine Learning`
 
 ---
 
@@ -162,24 +177,18 @@ Functional verification, coverage analysis, simulation automation, and debugging
 
 ## 📫 Connect With Me
 
-<p>
+<div align="center">
 
-<a href="https://github.com/shrimahe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shrimahe)
 
-<a href="https://www.linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=shrimahe&style=flat-square&color=blue)
+*"Good hardware is not only functional—it is verifiable, scalable, and simple."*
 
-> *"Good hardware is not only functional—it is verifiable, scalable, and simple."*
+![Profile Views](https://komarev.com/ghpvc/?username=shrimahe&style=flat-square&color=blue)
 
 </div>
