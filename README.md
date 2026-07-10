@@ -62,10 +62,9 @@ Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrimahe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrimahe&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrimahe&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrimahe&theme=github_dark)
 
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true"/>
