@@ -10,8 +10,13 @@
 
 </div>
 
-### 🚀 About Me
-🎓 B.E. Electronics & Communication Engineering @ RV College of Engineering &nbsp;|&nbsp; ⚡ Working on **RISC-V**, **RTL Design**, **Verification** & **FPGA Development** &nbsp;|&nbsp; 🧠 Exploring **ML** for communication networks & hardware systems
+```yaml
+whoami:
+  role: "ECE Undergrad @ RV College of Engineering"
+  focus: [RISC-V, RTL Design, Verification, FPGA Development]
+  exploring: "ML for communication networks & hardware systems"
+  status: "compiling knowledge, one commit at a time"
+```
 
 ### 🛠️ Tech Stack
 ![](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square)
@@ -56,16 +61,25 @@ Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 <img src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true" height="165"/>
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
 <details>
-<summary><b>📈 Contribution graph, snake & trophies</b></summary>
+<summary><b>📈 Contribution graph & trophies</b></summary>
 <br>
 
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=shrimahe&theme=github-dark&hide_border=true)
-
-![](https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg)
-*(snake activates once the [Platane/snk](https://github.com/Platane/snk) Action is added to this repo)*
 
 ![](https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6)
 
