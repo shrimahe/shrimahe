@@ -30,19 +30,6 @@
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,vscode,linux,latex)
 
-- Vivado · Xcelium · ModelSim · KiCad · MATLAB
-
----
-
-## 🔬 Current Focus
-
-```
-▰▰▰▰▰▰▰▱▱  RISC-V Microarchitecture
-▰▰▰▰▰▰▰▰▱  RTL Design
-▰▰▰▰▰▰▰▱▱  Functional Verification
-▰▰▰▰▰▰▱▱▱  FPGA Prototyping
-▰▰▰▰▰▱▱▱▱  Reinforcement Learning
-```
 
 ---
 
@@ -90,16 +77,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 💡 Engineering Interests
 
 `Digital Design` `Computer Architecture` `RISC-V` `FPGA` `ASIC Design` `RTL Verification` `Embedded Systems` `PCB Design` `Hardware-Software Co-design` `Machine Learning`
@@ -120,6 +97,7 @@
 
 <div align="center">
 
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shrimahe)
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shrimahe)
 
 </div>
