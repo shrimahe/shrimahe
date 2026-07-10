@@ -30,7 +30,7 @@ whoami:
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,latex,riscv,matlab"/>
 </p>
 
 **Hardware:** Verilog • SystemVerilog • RISC-V • FPGA • RTL Design • UVM
