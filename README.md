@@ -1,8 +1,11 @@
-# Hi there, I'm Shridattha M. Hebbar 👋
+<div align="center">
 
-**Building reliable hardware systems from RTL to intelligent embedded platforms.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20reliable%20hardware%20systems%20from%20RTL%20to%20intelligent%20embedded%20platforms&descAlignY=58&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Digital+IC+Design+%7C+Computer+Architecture;RISC-V+%7C+RTL+Design+%7C+Verification;FPGA+Development+%7C+Embedded+Systems" />
 
 </div>
+
 
 ---
 
@@ -30,6 +33,19 @@
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,vscode,linux,latex)
 
+- Vivado · Xcelium · ModelSim · KiCad · MATLAB
+
+---
+
+## 🔬 Current Focus
+
+```
+▰▰▰▰▰▰▰▱▱  RISC-V Microarchitecture
+▰▰▰▰▰▰▰▰▱  RTL Design
+▰▰▰▰▰▰▰▱▱  Functional Verification
+▰▰▰▰▰▰▱▱▱  FPGA Prototyping
+▰▰▰▰▰▱▱▱▱  Reinforcement Learning
+```
 
 ---
 
@@ -77,6 +93,28 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/shrimahe/shrimahe/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> To activate this animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo (`shrimahe/shrimahe`) — it auto-generates the snake SVG from your contribution graph on a schedule.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=shrimahe&theme=algolia&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
 ## 💡 Engineering Interests
 
 `Digital Design` `Computer Architecture` `RISC-V` `FPGA` `ASIC Design` `RTL Verification` `Embedded Systems` `PCB Design` `Hardware-Software Co-design` `Machine Learning`
@@ -97,8 +135,8 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shrimahe)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=linkedin)](https://github.com/shrimahe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrimahe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridattha-m-hebbar/)
 
 </div>
 
@@ -109,5 +147,7 @@
 *"Good hardware is not only functional—it is verifiable, scalable, and simple."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shrimahe&style=flat-square&color=blue)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" />
 
 </div>
