@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=RTL%20•%20RISC-V%20•%20FPGA%20•%20Verification&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=180&section=header&text=Shridattha%20M.%20Hebbar&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&color=26D0CE&center=true&vCenter=true&width=650&lines=Build.;Verify.;Optimize.;Repeat."/>
 
@@ -61,10 +61,6 @@ Reinforcement Learning     ▰▰▰▰▰▱▱▱▱
 
 
 ## 📊 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrimahe&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrimahe&theme=github_dark)
 
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=shrimahe&theme=github-dark-blue&hide_border=true"/>
